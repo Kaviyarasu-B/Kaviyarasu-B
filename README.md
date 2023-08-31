@@ -1,7 +1,7 @@
 ### <div align="center">I'm Kaviyarasu , full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on portfolio using React JS  
+- 🔭 I’m currently working on portfolio using React JS 
   
 
 - 🌱 I’m currently learning Spring and  ReactJS  
