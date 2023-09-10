@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h3>Hi, I'm Kaviyarasu </h3>
 <br>🔭 I’m currently working on React JS Portfolio<br>🌱 I’m currently learning React JS and Spring<br>
 
